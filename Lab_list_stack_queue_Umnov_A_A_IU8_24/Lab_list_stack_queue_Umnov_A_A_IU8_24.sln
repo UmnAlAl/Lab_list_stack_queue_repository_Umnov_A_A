@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_list_stack_queue_Umnov_A_A_IU8_24", "Lab_list_stack_queue_Umnov_A_A_IU8_24\Lab_list_stack_queue_Umnov_A_A_IU8_24.vcxproj", "{6FEE96A2-B514-497B-9C7C-7C450B077E16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FEE96A2-B514-497B-9C7C-7C450B077E16}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6FEE96A2-B514-497B-9C7C-7C450B077E16}.Debug|Win32.Build.0 = Debug|Win32
+		{6FEE96A2-B514-497B-9C7C-7C450B077E16}.Release|Win32.ActiveCfg = Release|Win32
+		{6FEE96A2-B514-497B-9C7C-7C450B077E16}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
